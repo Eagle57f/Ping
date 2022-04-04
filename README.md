@@ -1,4 +1,4 @@
 Petit programme non-optimisé qui détecte les coupures/micro-coupures d'internet et les répertorie dans un fichier.txt.
 
 Utilisant 
-> os.system("ping -n 1 google.com")
+>os.system("ping -n 1 google.com")
