@@ -11,7 +11,7 @@ de la librairie [os](https://docs.python.org/3/library/os.html "librairie os").
 
 Screen des lignes qui apparaissent lorsqu'il y a eu une cooupure:
 
-![Screen ligne coupure fichier .txt](https://github.com/Eagle57f/Ping/blob/main/Capture_fichier_ligne_coupoure.PNG "Screen ligne coupure")
+![Screen ligne coupure fichier .txt](https://github.com/Eagle57f/Ping/blob/main/Capture_fichier_ligne_coupure.PNG "Screen ligne coupure")
 
 Screen du bloc qui apparaît lorsqu'on arrête le programme:
 
