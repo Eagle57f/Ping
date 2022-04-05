@@ -11,8 +11,18 @@ de la librairie [os](https://docs.python.org/3/library/os.html "librairie os").
 
 Screen des lignes qui apparaissent lorsqu'il y a eu une coupure:
 
-![Screen ligne coupure fichier .txt](https://github.com/Eagle57f/Ping/blob/main/Capture_fichier_texte_ligne_coupure.PNG "Screen ligne coupure")
+    Début de coupure: 2022-04-04 13:56:20	Fin de coupure: 2022-04-04 13:56:20	Durée de coupure: 0:00:00.220088
+    Début de coupure: 2022-04-04 13:56:47	Fin de coupure:     2022-04-04 13:56:59	Durée de coupure: 0:00:12.282248
+
 
 Screen du bloc qui apparaît lorsqu'on arrête le programme:
 
-![Screen du bloc final fichier .txt](https://github.com/Eagle57f/Ping/blob/main/Capture_fichier_texte_bloc_fin.PNG "Screen bloc final")
+    ---------------------------------------------------------------
+    Début du test: 2022-04-04 13:56:06.300269
+    Fin du test: 2022-04-04 13:57:14.587292
+    Durée du test: 0:01:08.287023
+
+    Nombre de coupures: 2
+    Durée totale des coupures: 0:00:12.502336
+    Durée moyenne des coupures: 0:00:06.251168
+    ---------------------------------------------------------------
