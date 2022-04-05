@@ -9,7 +9,7 @@ os.system("ping -n 1 google.com")
 de la librairie [os](https://docs.python.org/3/library/os.html "librairie os").
 
 
-Screen des lignes qui apparaissent lorsqu'il y a eu une cooupure:
+Screen des lignes qui apparaissent lorsqu'il y a eu une coupure:
 
 ![Screen ligne coupure fichier .txt](https://github.com/Eagle57f/Ping/blob/main/Capture_fichier_texte_ligne_coupure.PNG "Screen ligne coupure")
 
