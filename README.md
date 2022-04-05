@@ -9,13 +9,13 @@ os.system("ping -n 1 google.com")
 de la librairie [os](https://docs.python.org/3/library/os.html "librairie os").
 
 
-Screen des lignes qui apparaissent lorsqu'il y a eu une coupure:
+Lignes qui apparaissent lorsqu'il y a eu une coupure:
 
     Début de coupure: 2022-04-04 13:56:20	Fin de coupure: 2022-04-04 13:56:20    Durée de coupure: 0:00:00.220088
     Début de coupure: 2022-04-04 13:56:47	Fin de coupure: 2022-04-04 13:56:59    Durée de coupure: 0:00:12.282248
 
 
-Screen du bloc qui apparaît lorsqu'on arrête le programme:
+Bloc qui apparaît lorsqu'on arrête le programme:
 
     ---------------------------------------------------------------
     Début du test: 2022-04-04 13:56:06.300269
