@@ -13,7 +13,7 @@ os.system("ping -n 1 google.com")
 de la librairie [os](https://docs.python.org/3/library/os.html "librairie os").
 
 Ainsi que la librairie [datetime](https://docs.python.org/3/library/datetime.html "librairie datetime")
-et la librairie threading [threading](https://docs.python.org/3/library/threading.html "librairie threading").
+et la librairie [threading](https://docs.python.org/3/library/threading.html "librairie threading").
 
 
 ### **Information apparaîssants dans le fichier:**
