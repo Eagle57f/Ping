@@ -2,6 +2,10 @@
 
 Petit programme non-optimisé qui détecte les coupures/micro-coupures d'internet et les répertorie dans un fichier.txt.
 
+Pour lancer le fichier, il suffit de cliquer sur le fichier **launch.bat**.
+
+
+
 Utilisant:
 ```python
 os.system("ping -n 1 google.com")
